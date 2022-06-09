@@ -1,6 +1,6 @@
-# youTube-Download-Shortcut
+# youTube-Download-with-English-Subtitle-Shortcut
 
-Download youtube video in mp4 with yt-dlp
+Download youtube video in mp4 and English subtitle with yt-dlp
 
 ## How to install
 download and install latest release of yt-dlp from https://github.com/yt-dlp/yt-dlp  
