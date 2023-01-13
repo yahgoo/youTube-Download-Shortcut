@@ -9,4 +9,5 @@ sudo cp ytd.sh /usr/local/bin
 sudo chmod -R 777 /usr/local/bin/ytd.sh  
 
 ## Run script
+bash  
 ytd.sh <youtube URL>
